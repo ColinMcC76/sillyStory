@@ -21,7 +21,7 @@ let inserty = new Array("the soup kitchen","Disneyland","the White House")
 let insertz = new Array("spontaneously combusted","melted into a puddle on the sidewalk","turned into a slug and crawled away")
 let newStory = ""
 newStory = storyTxt
-  // This creates text strings that will act as input into our program. 
+// This creates text strings that will act as input into our program. 
 
 randomize.addEventListener('click', result);
 
